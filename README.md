@@ -21,7 +21,7 @@ Average Discount (KPI): Displays an average discount of 4%, offering a quick ref
 
 Quantity Sold (KPI): Represents a total of 22,000 units sold, providing a measure of product movement and demand.
 
-Total Sales (KPI): Shows that sales reached ₹2 million, reflecting solid overall performance.
+Total Sales (KPI): Indicates that sales have reached ₹2 million, reflecting a solid overall performance.
 
 Total Profit (KPI): Indicates ₹175K in profit, supporting margin analysis and cost-control decisions.
 
@@ -37,7 +37,7 @@ Monthly Profit YoY (Line Chart): Offers a month-wise profit comparison between 2
 
 📈 Business Impact & Insights  
 
-Regional Focus: The West and East regions show strong sales, suggesting that further marketing investment and supply chain support could yield returns.
+Regional Focus: The West and East regions exhibit strong sales, indicating that additional marketing investment and supply chain support could yield significant returns.
 
 Customer Strategy: Prioritising the Consumer segment with targeted campaigns may significantly boost revenue, given its dominant sales share.
 
@@ -50,4 +50,4 @@ Seasonality Awareness: Month-over-month trends help anticipate seasonal spikes a
 This dashboard equips business leaders with actionable insights, enabling smarter decisions and a more agile approach to meeting customer and market demands.
 
 Dashbord
-https://github.com/vanashreecm/Super-Store-Sales-Dashboard/blob/main/Screenshot%202025-07-10%20120236.png
+(https://github.com/vanashreecm/Super-Store-Sales-Dashboard/blob/main/Screenshot%202025-07-10%20120236.png)
