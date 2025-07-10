@@ -49,3 +49,5 @@ Seasonality Awareness: Month-over-month trends help anticipate seasonal spikes a
 
 This dashboard equips business leaders with actionable insights, enabling smarter decisions and a more agile approach to meeting customer and market demands.
 
+Dashbord
+https://github.com/vanashreecm/Super-Store-Sales-Dashboard/blob/main/Screenshot%202025-07-10%20120236.png
