@@ -53,7 +53,7 @@ To provide a comprehensive and interactive dashboard that helps stakeholders:
 
 - **Seasonality Awareness:** Month-over-month trends help anticipate seasonal spikes and drive decisions in budgeting, staffing, and promotions.
 
-This dashboard equips business leaders with actionable insights, enabling smarter decisions and a more agile approach to meeting customer and market demands.
+**This dashboard equips business leaders with actionable insights, enabling smarter decisions and a more agile approach to meeting customer and market demands.**
 Dashboard View: https://github.com/vanashreecm/Super-Store-Sales-Dashboard/blob/main/Screenshot%202025-07-10%20120236.png
 <img width="887" height="499" alt="Screenshot 2025-07-10 120236" src="https://github.com/user-attachments/assets/57b3a484-2e2a-41eb-9afe-7f12c2427823" />
 
